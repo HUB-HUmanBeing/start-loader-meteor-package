@@ -3,11 +3,11 @@
  
 ## Install
 
-`meteor add daviz:start-loader`
+`meteor add system-d:start-loader`
 
 ### Note
 
-This is a fork of `webdeb:app-loader` but vertically centered (as well as horizontally).
+This is a fork of `daviz:start-loader` re-styled in dark-material theme.
 
 ## How it works
 
