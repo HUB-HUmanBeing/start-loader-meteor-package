@@ -3,7 +3,7 @@
  
 ## Install
 
-`meteor add system-d:start-loader`
+`meteor add robinbanquo:start-loader`
 
 ### Note
 

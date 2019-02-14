@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'system-d:start-loader',
+  name: 'robinbanquo:start-loader',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Show a centered loading spinner while application code is downloading.',
